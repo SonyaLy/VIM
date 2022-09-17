@@ -1,0 +1,12 @@
+﻿  Controller.cpp
+  File.cpp
+  Model.cpp
+C:\Users\Софья\Desktop\3_курс\ООП\Лабораторная 3\VIM\VIM\Model.cpp(367,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Софья\Desktop\3_курс\ООП\Лабораторная 3\VIM\VIM\Model.cpp(389,79): warning C4018: <=: несоответствие типов со знаком и без знака
+  PDCurses.cpp
+  Source.cpp
+  View.cpp
+  Создание кода...
+MyStringLibrary.lib(MyString.obj) : warning LNK4099: "MyStringLibrary.pdb" PDB не найден с "MyStringLibrary.lib(MyString.obj)" или на "C:\Users\Софья\Desktop\3_курс\ООП\Лабораторная 3\VIM\Debug\MyStringLibrary.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+MyStringLibrary.lib(pch.obj) : warning LNK4099: "MyStringLibrary.pdb" PDB не найден с "MyStringLibrary.lib(pch.obj)" или на "C:\Users\Софья\Desktop\3_курс\ООП\Лабораторная 3\VIM\Debug\MyStringLibrary.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  VIM.vcxproj -> C:\Users\Софья\Desktop\3_курс\ООП\Лабораторная 3\VIM\Debug\VIM.exe
